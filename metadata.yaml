@@ -1,0 +1,34 @@
+_repo: F-bulas-literarias_29497
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Iriarte, Tomás de
+    aliases:
+    - Iriarte, Tomas de
+    - Oropesa, Tomás de Iriarte y
+    - Cisnéros, Francisco Agustín de
+    - De Iriarte, Tomás
+    - Cisneros, Francisco Agustin de
+    - Yriarte, Tomás de
+    birthdate: 1750
+    deathdate: 1791
+    gutenberg_agent_id: '33948'
+    url: http://www.gutenberg.org/2009/agents/33948
+    wikipedia: http://es.wikipedia.org/wiki/Tom%C3%A1s_de_Iriarte
+description: ''
+gutenberg_issued: '2009-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29497'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fables, Spanish'
+title: Fábulas literarias
+url: http://www.gutenberg.org/ebooks/29497
